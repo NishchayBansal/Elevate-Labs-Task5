@@ -1,6 +1,6 @@
 # Elevate-Labs-Task5
 
-Task 5 : Capture and Analyze Network Traffic Using Wireshark.
+**Task 5 : Capture and Analyze Network Traffic Using Wireshark.**
 
 Objective: Capture live network packets and identify basic protocols and traffic types.
 
@@ -8,6 +8,7 @@ Tools: Wireshark (free).
 
 Deliverables: A packet capture (.pcap) file and a short report of protocols identified
 
+**Steps for working:**
 1. Installed Wireshark.
 2. Started capturing on your active network interface.
 
