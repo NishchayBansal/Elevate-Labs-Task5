@@ -42,3 +42,4 @@ IGMPv3:
 8. Summarize your findings and packet details.
    
 **PFA the word file for the findings and packet details**
+**Also, PFA the packet capture (.pcap) file and a short report of protocols identified.**
